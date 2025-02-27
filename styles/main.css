@@ -17,14 +17,12 @@
 }
 
 /* phones */
-@media only screen and (max-width: 400px) {
-  .container {
-    /* some layout rules */
+@media only screen and (max-width: 430px) {
+  .margin-list {
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-right: 15px;
   }
-}
-
-.side-by-side-lists {
-  padding-inline-start: 40px;
 }
 
 body {
