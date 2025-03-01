@@ -101,3 +101,33 @@ body {
 ul {
   padding-inline-start: 00px;
 }
+
+.normal-link a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.normal-link a:hover {
+}
+
+.techincal-align {
+  margin-left: 50px;
+}
+
+.alight-text {
+  margin-right: 50px;
+}
+
+.white-bg {
+  background-color: #ffffff !important;
+  background: #ffffff !important;
+}
+
+.text-colour {
+  color: #082759;
+}
+
+.padding {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
