@@ -135,3 +135,7 @@ ul {
 .italics {
   font-style: italic;
 }
+
+.centre-title {
+  padding-right: 50px;
+}
